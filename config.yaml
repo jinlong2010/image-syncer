@@ -3,6 +3,6 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  gcr.io/google_samples/gb-redis-follower:v2:jinlong2010/jinlongw89/gb-redis-follower:v2
+  k8s.gcr.io/metrics-server/metrics-server: willdockerhub/metrics-server
   
   

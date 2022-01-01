@@ -4,3 +4,4 @@ auth:
     password: PASSWORD
 images:
   gcr.io/google_samples/gb-redis-follower: jinlong2010/jinlongw89/gb-redis-follower
+  

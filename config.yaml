@@ -3,6 +3,4 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  k8s.gcr.io/metrics-server/metrics-server: jinlong2010/jinlongw89/metrics-server
-  
-  
+  gcr.io/google_samples/gb-redis-follower: jinlong2010/jinlongw89/gb-redis-follower
